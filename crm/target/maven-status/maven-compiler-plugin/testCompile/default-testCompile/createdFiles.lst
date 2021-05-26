@@ -1,0 +1,9 @@
+com\crm\poi\CreatExcelTest.class
+com\crm\BaseTest.class
+com\crm\dao\UserDaoTest.class
+com\crm\dao\UUIDUtilsTest.class
+com\crm\dao\ActivityDaoTest.class
+com\crm\dao\ClueServiceTest.class
+com\crm\service\UserServiceTest.class
+com\crm\dao\DicTypeDaoTest.class
+com\crm\dao\DicValueDaoTest.class
